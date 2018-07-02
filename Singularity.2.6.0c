@@ -1,0 +1,2 @@
+Bootstrap: docker
+From: overcookedfrog/star:2.6.0c
